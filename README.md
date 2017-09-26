@@ -1,9 +1,9 @@
 # Latest-material-integration
 
 # Step 1
-1. npm install --save @angular/material
+1.npm install --save @angular/material
 
-2. npm install --save @angular/cdk
+2.npm install --save @angular/cdk
 
 3.npm install --save angular/material2-builds
 
